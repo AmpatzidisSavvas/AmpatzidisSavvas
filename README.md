@@ -117,6 +117,6 @@
 
 ###
 
-<h4 align="left">Email: savvas.ampa@gmail.com</h4>
+<h4 align="left">Email --> savvas.ampa@gmail.com</h4>
 
 ###
