@@ -107,7 +107,7 @@
 
 ###
 
-<p align="left">Contact</p>
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -115,7 +115,10 @@
   <a href="https://www.linkedin.com/in/savvas-ampatzidis/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <p>Email: savvas.ampa@gamil.com</p>
 </div>
+
+###
+
+<h4 align="left">Email: savvas.ampa@gmail.com</h4>
 
 ###
