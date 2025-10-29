@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savvas Ampatzidis</h1>
 <h3 align="center">A passionate self-taught multidisciplinary junior software developer.</h3>
-<div style="text-align: center;">
-  <a href="https://ampatzidissavvas.github.io/3D-resume/">Short Resume</a>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
