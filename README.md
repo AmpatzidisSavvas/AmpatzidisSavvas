@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savvas Ampatzidis</h1>
-<h3 align="center">A passionate self-taught multidisciplinary junior software developer.</h3>
+<h3 align="center">A passionate self-taught software developer.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
